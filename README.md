@@ -1,3 +1,4 @@
 # sriharinagaram
 
-![Snake animation](https://github.com/thepiyushmalhotra/snagaram3/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]
+(https://github.com/snagaram3/sriharinagaram/blob/output/github-contribution-grid-snake.svg)
