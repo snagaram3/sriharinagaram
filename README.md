@@ -1,7 +1,3 @@
-# sriharinagaram
-
-![Snake animation]
-(https://github.com/snagaram3/snagaram3/blob/output/github-contribution-grid-snake.svg)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=snagaram3.snagaram3" />
 
