@@ -3,7 +3,7 @@
 ![Snake animation]
 (https://github.com/snagaram3/snagaram3/blob/output/github-contribution-grid-snake.svg)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=snagaram3.sriharinagaram" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=snagaram3.snagaram3" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Srihari+Nagaram!;" />
@@ -19,7 +19,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/snagaram3/sriharinagaram/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/snagaram3/snagaram3/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -52,7 +52,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/snagaram3/sriharinagaram/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/snagaram3/snagaram3/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
